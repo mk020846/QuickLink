@@ -9,4 +9,4 @@
    - Run dpkg -i /path/to/QuickLink.deb
    - It will now appear in your applications.
 ## 3. Liked It?
-    - Buy me a coffee: [https://www.buymeacoffee.com/mayank1407]
+Buy me a coffee: [https://www.buymeacoffee.com/mayank1407]
